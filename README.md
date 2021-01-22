@@ -1,4 +1,7 @@
 # horriblesubsscraper
+
+## Updated version here: https://github.com/zaini/nyaascraper
+
 An application to scrap and open magnet links for HorribleSubs torrents from nyaa.si. Useful for when batches don't exist or you don't have some particular episodes.
 
 This scraper will search for the provided show at the specified quality on HorribleSubs' page on nyaa.si and open the magnet links in your default BitTorrent client.
